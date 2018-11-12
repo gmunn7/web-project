@@ -1,0 +1,18 @@
+header {
+  text-align: center;
+  background: url('https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&h=350.jpeg');
+  background-size: cover;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+img {
+  border: 10px solid blue;
+}
+.center {
+  display: inline-block;
+  margin-left: auto;
+  margin-left: auto;
+  width: 40%;
+}
