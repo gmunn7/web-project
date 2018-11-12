@@ -4,9 +4,9 @@ header {
   background-size: cover;
 }
 h1 {
-  color: pink;
+  color: green;
   text-align: left;
-  background-color: orange;
+  background-color: purple;
 }
 img {
   border: 120px solid yellow;
