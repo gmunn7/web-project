@@ -4,11 +4,11 @@ header {
   background-size: cover;
 }
 h1 {
-  color: red;
+  color: blue;
   text-align: center;
 }
 img {
-  border: 10px solid blue;
+  border: 10px solid yellow;
 }
 .center {
   display: inline-block;
