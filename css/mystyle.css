@@ -1,14 +1,4 @@
 header {
-<<<<<<< HEAD
-  text-align: right;
-  background: url('https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&h=350.jpeg');
-  background-size: cover;
-}
-h1 {
-  color: blue;
-  text-align: left;
-  background-color: orange;
-=======
   text-align: center;
   background-color: black;
   background-size: cover;
@@ -17,7 +7,6 @@ h1 {
   color: green;
   text-align: left;
   background-color: purple;
->>>>>>> 394d3f539cb4a4c19f97f4e6d2b5f37738dd6687
 }
 img {
   border: 80px dashed yellow;
